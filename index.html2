@@ -1,0 +1,7 @@
+<div class="product-card">
+  <img src="images/shoes.jpg" alt="Stylish Shoes">
+  <h3>Stylish Shoes</h3>
+  <p>Comfortable running shoes with modern design.</p>
+  <div class="price">₹1200</div>
+  <a href="#" class="buy-btn">Buy Now</a>
+</div>
